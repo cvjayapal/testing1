@@ -6,6 +6,8 @@ user3
 user4
 user5
 user6
+user7
+user8
 EOL
 for i in `cat users`
 do
